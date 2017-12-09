@@ -1,6 +1,6 @@
 {
   "name": "random-string",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generates a random string [0-9a-zA-Z]",
   "main": "index.js",
   "scripts": {
