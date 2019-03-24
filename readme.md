@@ -5,7 +5,7 @@ Generates a random string.
 ## Install
 
 ```
-$ npm install https://github.com/emiljohansson/random-string
+$ npm install @emiljohansson/random-string
 ```
 
 ## Usage
@@ -30,4 +30,4 @@ Optional length of the string. Default is 10.
 
 ## License
 
-MIT © [Emil Johansson](http://emiljohansson.se)
+MIT © [Emil Johansson](http://emiljohansson.dev)
