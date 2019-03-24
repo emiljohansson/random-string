@@ -1,7 +1,7 @@
 import test from 'ava'
 import randomString from '.'
 
-test(t => {
+test('validate length of string', t => {
   let index = 20
   do {
     t.is(randomString(index).length, index)
