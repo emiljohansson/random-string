@@ -1,5 +1,5 @@
-import test from 'ava'
-import randomString from '.'
+const test = require('ava')
+const randomString = require('.')
 
 test('validate length of string', t => {
   let index = 20

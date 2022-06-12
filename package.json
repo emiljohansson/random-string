@@ -13,6 +13,6 @@
   "author": "Emil Johansson <emiljohansson.se@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "ava": "1.4.0"
+    "ava": "4.3.0"
   }
 }
