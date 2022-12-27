@@ -4,7 +4,8 @@
     "noEmitOnError": true,
     "removeComments": true,
     "sourceMap": true,
-    "target": "ES5",
+    "target": "ESNext",
+    "module": "UMD",
     "outDir": "dist",
     "declaration": true
   },
