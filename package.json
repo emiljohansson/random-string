@@ -3,8 +3,13 @@
   "version": "2.0.1-1",
   "description": "Generates a random string [0-9a-zA-Z]",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc --build",
+    "prepublish": "tsc",
     "test": "ava"
   },
   "keywords": [
