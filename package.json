@@ -1,10 +1,16 @@
 {
   "name": "@emiljohansson/random-string",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Generates a random string [0-9a-zA-Z]",
+  "type": "module",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc --build",
+    "prepublish": "tsc",
     "test": "ava"
   },
   "keywords": [

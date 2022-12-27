@@ -1,14 +1,33 @@
 {
   "compilerOptions": {
-    "noImplicitAny": true,
-    "noEmitOnError": true,
-    "removeComments": true,
+    "target": "es5",
+    "module": "esnext",
+    "lib": [
+      "es5",
+      "dom",
+      "es2015",
+      "es2015.collection"
+    ],
+    "declaration": true,
+    "declarationMap": true,
     "sourceMap": true,
-    "target": "ESNext",
     "outDir": "dist",
-    "declaration": true
+
+    /* Strict Type-Checking Options */
+    "strict": false,
+
+
+    /* Module Resolution Options */
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+
+    /* Advanced Options */
+    "forceConsistentCasingInFileNames": true,
   },
   "include": [
     "index.ts"
+  ],
+  "exclude": [
+    "node_modules"
   ]
 }
