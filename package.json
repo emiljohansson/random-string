@@ -1,6 +1,6 @@
 {
   "name": "@emiljohansson/random-string",
-  "version": "1.1.2",
+  "version": "2.0.0-0",
   "description": "Generates a random string [0-9a-zA-Z]",
   "main": "dist/index.js",
   "scripts": {
