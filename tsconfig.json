@@ -4,7 +4,7 @@
     "noEmitOnError": true,
     "removeComments": true,
     "sourceMap": true,
-    "target": "ESNext",
+    "target": "ES5",
     "outDir": "dist",
     "declaration": true
   },
