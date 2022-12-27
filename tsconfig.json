@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "target": "ESNext",
+    "outDir": "dist",
+    "declaration": true
+  },
+  "include": [
+    "index.ts"
+  ]
+}
