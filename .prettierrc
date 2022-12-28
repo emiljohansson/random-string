@@ -1,0 +1,9 @@
+{
+	"semi": false,
+	"useTabs": true,
+	"singleQuote": false,
+	"trailingComma": "all",
+	"printWidth": 100,
+	"pluginSearchDirs": ["."],
+	"overrides": [{ "files": "*.ts" }]
+}
