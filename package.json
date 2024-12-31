@@ -17,7 +17,7 @@
 		"random",
 		"string"
 	],
-	"author": "Emil Johansson <emiljohansson.se@gmail.com>",
+	"author": "Emil Johansson",
 	"license": "MIT",
 	"devDependencies": {
 		"ava": "4.3.0",
